@@ -1,0 +1,6 @@
+  [dev] 
+  54.166.191.159 
+  [dev:vars] 
+  s3code=petarfs-4935
+  domain=petarfs 
+  EOF
